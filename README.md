@@ -8,13 +8,10 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 
 ## Participantes
 ### 🚀 Líder Técnico
-[NOME e GITHUB]
+- None
 
 ### 👻 Caçadores de Bugs
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
+* Walter Alípio da Silva
 
 ## ⚙️ Tecnologias
 * C# 12
@@ -31,7 +28,7 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 * Muito conhecimento técnico
 
 ## 🧪 Como testar o projeto
-[DESCREVER COMO EXECUTAR O PROJETO]
+Após baixar o projeto e restaurar as dependências, atualizar o banco de dados. Necessário rodar a api, criar um usuário na app Web, criar uma categoria e uma transação.
 
 # 💜 Participe
 Quer participar dos próximos desafios? Junte-se a [maior comunidade .NET do Brasil 🇧🇷 💜](https://balta.io/discord)
